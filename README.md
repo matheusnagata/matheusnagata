@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm an IT Infrastructure professional seeking to improve my development skills!
+I'm an IT Infrastructure professional seeking to improve my development skills! 💻💡
 
 <!--
 **matheusnagata/matheusnagata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
